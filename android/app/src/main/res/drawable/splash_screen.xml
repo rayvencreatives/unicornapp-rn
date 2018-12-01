@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:drawable="@color/bgColor"/>
+
+    <item
+        android:width="70dp"
+        android:height="70dp"
+        android:gravity="center">
+        <bitmap
+            android:scaleType="fitCenter"
+            android:src="@drawable/icon_unicorn"/>
+    </item>
+
+</layer-list>
